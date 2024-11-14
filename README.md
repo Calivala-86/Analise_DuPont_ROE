@@ -10,7 +10,7 @@ ROE = (𝐿𝑢𝑐𝑟𝑜 𝑙𝑖𝑞𝑢𝑖𝑑𝑜)/(𝑃𝑎𝑡𝑟𝑖�
 
 #### Existem três rácios financeiras principais que impulsionam o ROE:
 
-%ROE% =(𝐿𝑢𝑐𝑟𝑜 𝑙𝑖𝑞𝑢𝑖𝑑𝑜)/𝑉𝑒𝑛𝑑𝑎𝑠∗𝑣𝑒𝑛𝑑𝑎𝑠/𝐴𝑡𝑖𝑣𝑜𝑠∗𝐴𝑡𝑖𝑣𝑜/(𝑃𝑎𝑡𝑟𝑖𝑚ó𝑛𝑖𝑜 𝑙𝑖𝑞𝑢𝑖𝑑𝑜)
+#ROE# =(𝐿𝑢𝑐𝑟𝑜 𝑙𝑖𝑞𝑢𝑖𝑑𝑜)/𝑉𝑒𝑛𝑑𝑎𝑠∗𝑣𝑒𝑛𝑑𝑎𝑠/𝐴𝑡𝑖𝑣𝑜𝑠∗𝐴𝑡𝑖𝑣𝑜/(𝑃𝑎𝑡𝑟𝑖𝑚ó𝑛𝑖𝑜 𝑙𝑖𝑞𝑢𝑖𝑑𝑜)
 
 1. Eficiência operacional [Rendibilidade Liquida das vendas]: Que é representada pela margem de lucro líquido ou lucro líquido dividido pelas vendas ou receitas totais.
 2. Eficiência no uso de ativos [Rotação do Ativo]: Que é presentada pela vendas divido pelo ativos.
