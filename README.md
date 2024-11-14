@@ -23,5 +23,5 @@ Gestores: Podem empregá-la para identificar fraquezas que precisam ser abordada
 
 
 ### Limitações
-Dependência de Dados e processos contábeis: Depende de dados e equações contábeis que podem ser suscetiveis a manipulações.
-Falta de Contexto: É necessário ao avaliar se os indices individuais são altos ou baixos.
+1. Dependência de Dados e processos contábeis: Depende de dados e equações contábeis que podem ser suscetiveis a manipulações.
+2. Falta de Contexto: É necessário ao avaliar se os indices individuais são altos ou baixos.
