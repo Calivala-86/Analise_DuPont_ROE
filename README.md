@@ -28,7 +28,7 @@ A análise DuPont é uma fórmula usada para avaliar o desempenho financeiro de 
 
 3. get the code from the repository
 
-git clone: https://github.com/Calivala-86/PE-LBO-MODEL.git
+git clone: https://github.com/Calivala-86/Analise_DuPont_ROE.git
 
 Install required python packages if previously not installed:
 
