@@ -26,7 +26,7 @@ A análise DuPont é uma fórmula usada para avaliar o desempenho financeiro de 
 1. **Dependência de Dados e processos contábeis**: Depende de dados e equações contábeis que podem ser suscetiveis a manipulações.
 2. **Falta de Contexto**: É necessário ao avaliar se os indices individuais são altos ou baixos.
 
-3. get the code from the repository
+### get the code from the repository
 
 git clone: https://github.com/Calivala-86/Analise_DuPont_ROE.git
 
